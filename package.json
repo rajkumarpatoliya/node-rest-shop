@@ -1,0 +1,16 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "An nodejs REST shopping app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajkumar Patoliya",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
